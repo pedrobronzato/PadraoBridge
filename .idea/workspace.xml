@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bcda493b-47e0-4295-8147-c4412fad9b84" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bridge/Especializacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bridge/Estagiario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bridge/Java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bridge/Junior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bridge/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bridge/Pleno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bridge/React.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bridge/Senior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bridge/Senioridade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bridge/Sql.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/bridge/EstagiarioTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/bridge/JuniorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/bridge/PlenoTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2OHbTmlAG72E0KCU6mo0rchtUkX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": ""
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.bridge" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in PadraoBridge">
+    <configuration name="All in PadraoBridge" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PadraoBridge" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EstagiarioTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PadraoBridge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.bridge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.bridge" />
+      <option name="MAIN_CLASS_NAME" value="org.bridge.EstagiarioTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JuniorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PadraoBridge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.bridge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.bridge" />
+      <option name="MAIN_CLASS_NAME" value="org.bridge.JuniorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlenoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PadraoBridge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.bridge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.bridge" />
+      <option name="MAIN_CLASS_NAME" value="org.bridge.PlenoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeniorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PadraoBridge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.bridge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.bridge" />
+      <option name="MAIN_CLASS_NAME" value="org.bridge.SeniorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in PadraoBridge" />
+        <item itemvalue="JUnit.SeniorTest" />
+        <item itemvalue="JUnit.PlenoTest" />
+        <item itemvalue="JUnit.JuniorTest" />
+        <item itemvalue="JUnit.EstagiarioTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bcda493b-47e0-4295-8147-c4412fad9b84" name="Changes" comment="" />
+      <created>1681220466448</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681220466448</updated>
+    </task>
+    <servers />
+  </component>
+</project>
