@@ -25,6 +25,7 @@
       <change afterPath="$PROJECT_DIR$/src/test/java/org/bridge/EstagiarioTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/org/bridge/JuniorTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/org/bridge/PlenoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/bridge/SeniorTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
